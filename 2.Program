@@ -1,8 +1,0 @@
-LXI H,7501
-MOV A,M
-INX H
-SBB M
-INX H
-MOV M,A
-RST 1
- 
